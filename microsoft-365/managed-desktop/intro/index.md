@@ -35,7 +35,7 @@ Our policies and security baseline offers your end users these benefits:
 - Boot times for Microsoft Managed Desktop devices about one-fourth as long.
 - At least twice the battery life
 - About one-third as many device crashes per year
-- Device mobility through [Enterprise State Roaming](https://docs.microsoft.com/azure/active-directory/devices/enterprise-state-roaming-overview), allowing users to have the same experience no matter what device to sign into
+- Device mobility through [Enterprise State Roaming](https://docs.microsoft.com/azure/active-directory/devices/enterprise-state-roaming-overview), allowing users to have the same experience no matter which device they to sign into
 
 Your IT admins benefit from these features:
 
